@@ -12,12 +12,11 @@
 <br>
 #####主要改变原来RadioButton中toggle()方法,其他都不变.在类CheckRadioButton.class中查看
 <br/>
+
+#### this radioButton can cancel checked state like {@link android.widget.CheckBox}
 ```
 <br/>
-/**
- * Created by yzq on 2017/11/11<p/> .
- * this radioButton can cancel checked state like {@link android.widget.CheckBox}
- */
+
 public class CheckRadioButton extends CompoundButton {
     public CheckRadioButton(Context context) {
         this(context,null);
