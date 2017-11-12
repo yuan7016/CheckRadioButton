@@ -15,7 +15,6 @@
 
 #### this radioButton can cancel checked state like {@link android.widget.CheckBox}
 ```
-<br/>
 
 public class CheckRadioButton extends CompoundButton {
     public CheckRadioButton(Context context) {
