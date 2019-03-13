@@ -8,7 +8,7 @@
     }
 ```
 <br>
-![效果图](https://github.com/yuan7016/CheckRadioButton/blob/master/raw/Screenrecorder-2017-11-12-15-57-09-828.gif)
+![](https://github.com/yuan7016/CheckRadioButton/blob/master/raw/Screenrecorder-2017-11-12-15-57-09-828.gif)
 <br>
 #####主要改变原来RadioButton中toggle()方法,其他都不变.在类CheckRadioButton.class中查看
 <br/>
